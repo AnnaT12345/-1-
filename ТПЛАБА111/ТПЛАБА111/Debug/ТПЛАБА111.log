@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\annat\source\repos\ТПЛАБА111\ТПЛАБА111\main.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  queue.cpp
+C:\Users\annat\source\repos\ТПЛАБА111\ТПЛАБА111\queue.cpp(106,20): warning C4101: temp2: неиспользованная локальная переменная
+  queue1.cpp
+  Создание кода...
+C:\Users\annat\source\repos\ТПЛАБА111\ТПЛАБА111\queue.cpp(57): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  ТПЛАБА111.vcxproj -> C:\Users\annat\source\repos\ТПЛАБА111\Debug\ТПЛАБА111.exe
